@@ -1,0 +1,19 @@
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+html {
+	height: 100%;
+}
+body {
+	min-height: 100%;
+}
+
+#clickbox {
+	border: black 2px;
+	border-style: solid;
+	width: 100%;
+	height: 100%;
+}
